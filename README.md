@@ -8,7 +8,7 @@ effectively to a dynamic, fast-paced team
 
 ### EDUCATION
 
-University of EssexMSc Applied Data Science | Sept. 2023 – Sept. 2024
+university of Essex MSc Applied Dataa Science
 
 Key Modules: Data Visualisation, Applied Statistics, Artificial Intelligence, Text Analytics, Database Management (SQL)
 
